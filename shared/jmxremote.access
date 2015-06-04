@@ -1,0 +1,17 @@
+# ==================================================================
+#  ______                           __     _____
+# /_  __/___  ____ ___  _________ _/ /_   /__  /
+#  / / / __ \/ __ `__ \/ ___/ __ `/ __/     / /
+# / / / /_/ / / / / / / /__/ /_/ / /_      / /
+#/_/  \____/_/ /_/ /_/\___/\__,_/\__/     /_/
+
+# Multi-instance Apache Tomcat installation with a focus
+# on best-practices as defined by Apache, SpringSource, and MuleSoft
+# and enterprise use with large-scale deployments.
+
+# ==================================================================
+
+# Uncomment the below line to enable 'tomcat' role to have
+# readonly access over JMX remote port.
+
+# tomcat readonly

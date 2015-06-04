@@ -1,0 +1,2 @@
+probe.war http://psi-probe.googlecode.com/files/probe-2.2.3.zip
+jolokia.war http://labs.consol.de/maven/repository/org/jolokia/jolokia-war/0.91/jolokia-war-0.91.war

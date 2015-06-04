@@ -1,0 +1,19 @@
+   ______                           __     
+  /_  __/___  ____ ___  _________ _/ /_  
+   / / / __ \/ __ `__ \/ ___/ __ `/ __/     
+  / / / /_/ / / / / / / /__/ /_/ / /_       
+ /_/  \____/_/ /_/ /_/\___/\__,_/\__/      
+                                               
+
+ Multi-instance Apache Tomcat installation with a focus on best-practices as 
+ defined by Apache, SpringSource, and MuleSoft and enterprise use with 
+ large-scale deployments.
+
+ Notes:
+	* Provision new tomcat instances (either version 6.0 or 7.0)
+	* Standardized configuration
+	* Large-Scale Deployment Models
+
+ Templates
+	* Application templates are taken from /shared/templates for provisioning
+
